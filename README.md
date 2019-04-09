@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ImranbashaViewTool::Renderer.copyright 'Imran Basha', 'All rights reserved'
+```
 
 ## Development
 
